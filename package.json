@@ -1,0 +1,28 @@
+{
+  "name": "react-boiler",
+  "version": "1.0.0",
+  "description": "React boiler plate for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbKathiriya/react-boiler.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Webpack"
+  ],
+  "author": "Akash Kathiriya <akash.kathiriya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbKathiriya/react-boiler/issues"
+  },
+  "homepage": "https://github.com/AbKathiriya/react-boiler#readme",
+  "dependencies": {
+    "webpack": "^4.29.6",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
